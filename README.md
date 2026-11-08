@@ -31,7 +31,6 @@ Em breve, os primeiros projetos de análise de dados e APIs.
 - Inglês: básico
 
 ## 📫 Contato
-[LinkedIn](www.linkedin.com/in/
+[LinkedIn] www.linkedin.com/in/
 thais-rosa-castro
-Nome fantasia da URL
-)
+
