@@ -3,9 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a8a,100:6d28d9&height=210&section=header&text=Tha%C3%ADs%20Rosa&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20de%20Dados%20%7C%20SQL%20%7C%20IA%20aplicada&descSize=20&descAlignY=62" alt="Banner do perfil de Thaís Rosa" width="100%"/>
 
-<!-- Para usar o banner animado de inicialização (opcional): envie assets/boot-banner.svg ao repositório
+<!-- Para usar o banner animado de inicialização (opcional): envie boot-banner.svg ao repositório
      e troque a imagem acima por:
-<img src="./assets/boot-banner.svg" alt="Sistema inicializando: Thaís Rosa de Castro" width="100%"/> -->
+<img src="./boot-banner.svg" alt="Sistema inicializando: Thaís Rosa de Castro" width="100%"/> -->
 
 <!-- ============ TYPING ============ -->
 <a href="https://github.com/thaisrosadev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1100&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=760&height=60&lines=%3E%20Iniciando%20sistema...;%3E%20Carregando%20m%C3%B3dulos%3A%20SQL%20%7C%20Git%20%7C%20Python;%3E%20Foco%3A%20Dados%20e%20Intelig%C3%AAncia%20Artificial;%3E%20Status%3A%20aprendendo%20todos%20os%20dias;%3E%20Pr%C3%B3ximo%20commit%3A%20em%20andamento" alt="Animação de digitação com meus focos atuais"/></a>
@@ -80,51 +80,6 @@ Este perfil é o registro da minha evolução rumo a **dados e IA aplicada**: es
 <sub>IA como apoio nos estudos e no trabalho: eu preciso entender e saber explicar cada parte do que produzo.</sub>
 
 </div>
-
----
-
-## 🚀 Projetos
-
-> Meus primeiros projetos estão a caminho. Cada card vira link quando o repositório for publicado.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 📊 Análise de Dados
-Análise exploratória de um dataset público: perguntas de negócio respondidas com **SQL** e **Python (pandas)**.
-
-<img src="https://img.shields.io/badge/status-em_breve-d29922?style=flat-square" alt="Status: em breve"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-1f6feb?style=flat-square" alt="SQL"/>
-
-</td>
-<td width="33%" valign="top">
-
-### 🔌 Consumo de API REST
-Script em **Python** que consulta uma API pública, trata erros e organiza o **JSON** da resposta.
-
-<img src="https://img.shields.io/badge/status-em_breve-d29922?style=flat-square" alt="Status: em breve"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/REST-8957e5?style=flat-square" alt="REST"/>
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Mini projeto de IA
-Automação simples com uma **API de IA** para resumir ou classificar textos.
-
-<img src="https://img.shields.io/badge/status-planejado-6e7681?style=flat-square" alt="Status: planejado"/>
-<img src="https://img.shields.io/badge/IA_aplicada-a371f7?style=flat-square" alt="IA aplicada"/>
-<img src="https://img.shields.io/badge/API-1f6feb?style=flat-square" alt="API"/>
-
-</td>
-</tr>
-</table>
-
-<!-- Quando um projeto estiver pronto, troque o card por um card real do GitHub:
-[![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=thaisrosadev&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7)](https://github.com/thaisrosadev/NOME_DO_REPOSITORIO)
--->
 
 ---
 
